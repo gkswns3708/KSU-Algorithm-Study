@@ -14,7 +14,7 @@
 
 ## 기하
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d663d430-1e32-4782-9e38-775e46272adf/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d663d430-1e32-4782-9e38-775e46272adf/.png)
+![https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4353_000_1%2F20160404162446404_TC22QGX05.png%2Fcd5_m29_3_clear.png%3Ftype%3Dw690_fst%26wm%3DN%22&twidth=726.16&theight=440.79999999999995&opts=17&sharpen=true](사진)
 
 원의 방정식 공식입니다. 1002 터렛 문제를 풀때 참고하시면 좋을 것 같습니다 :) - 박은지
 
