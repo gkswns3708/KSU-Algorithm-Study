@@ -1,5 +1,6 @@
 ## 기초 입출력
-[1차시_기초 입출력](./기초 스터디/1차시_기초 입출력/README.md)
+[1차시_기초 입출력](https://github.com/gkswns3708/KSU-Algorithm-Study/blob/d8813d5d3b22979af562a0e991802ddb52a7bec2/%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94/1%EC%B0%A8%EC%8B%9C_%EA%B8%B0%EC%B4%88%20%EC%9E%85%EC%B6%9C%EB%A0%A5/README.md)
+
 [1차시_기초 입출력](기초 스터디/1차시_기초 입출력/README.md)
 1. 기초 입출력
 
