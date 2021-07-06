@@ -253,6 +253,6 @@ def 함수 (매개변수) # 함수 선언부
 
 - python 시간 제한에 대한 내용
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e46a5285-a862-4a14-a953-84db1ced2967/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e46a5285-a862-4a14-a953-84db1ced2967/Untitled.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e46a5285-a862-4a14-a953-84db1ced2967/Untitled.png](기초 스터디/4차시_재귀,백트래킹/Python 시간 제한에 대한 내용.png)
 
     출처 : [https://www.acmicpc.net/help/language](https://www.acmicpc.net/help/language)
