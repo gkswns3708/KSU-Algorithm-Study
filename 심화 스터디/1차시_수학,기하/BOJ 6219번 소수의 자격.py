@@ -1,4 +1,4 @@
-import sys
+import sys  
 
 A, B, D = map(int, sys.stdin.readline().strip().split())
 
