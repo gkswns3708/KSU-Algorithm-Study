@@ -15,7 +15,7 @@ for TC in range(T):
     K = int(sys.stdin.readline().strip())
     flag = False
     for i in eratos:
-        if flag: 
+        if flag:
             break
         for j in eratos:
             if flag:
