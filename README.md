@@ -13,6 +13,12 @@
 
 [6차시_DP, 그리디, 정수론](https://github.com/gkswns3708/KSU-Algorithm-Study/tree/main/%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94/6%EC%B0%A8%EC%8B%9C_DP%2C%20%EA%B7%B8%EB%A6%AC%EB%94%94%2C%20%EC%A0%95%EC%88%98%EB%A1%A0)
 
+[7차시_DP, 그리디, 정수론(2)](https://github.com/gkswns3708/KSU-Algorithm-Study/tree/main/%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94/7%EC%B0%A8%EC%8B%9C_DP%2C%20%EA%B7%B8%EB%A6%AC%EB%94%94%2C%20%EC%A0%95%EC%88%98%EB%A1%A0(2))
+
+
+[8차시_스택, 큐, 덱](https://github.com/gkswns3708/KSU-Algorithm-Study/tree/main/%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94/8%EC%B0%A8%EC%8B%9C_%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1)
+
+
 ## 심화반 링크입니다.
 
 [1차시_수학, 기하](https://github.com/gkswns3708/KSU-Algorithm-Study/tree/main/%EC%8B%AC%ED%99%94%20%EC%8A%A4%ED%84%B0%EB%94%94/1%EC%B0%A8%EC%8B%9C_%EC%88%98%ED%95%99%2C%EA%B8%B0%ED%95%98)
