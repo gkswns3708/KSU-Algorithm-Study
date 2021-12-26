@@ -16,3 +16,6 @@
 
 
 [8차시_스택, 큐, 덱](https://github.com/gkswns3708/KSU-Algorithm-Study/tree/main/%EA%B8%B0%EC%B4%88%20%EC%8A%A4%ED%84%B0%EB%94%94/8%EC%B0%A8%EC%8B%9C_%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1)
+
+## 심화반 백준 그룹 link 입니다.
+[BOJ 그룹 link](https://www.acmicpc.net/group/9572)
